@@ -10,8 +10,8 @@ h1 {
   color: khaki;
   text-align: center;
 }
-.image {
- background-image: url('./resources/images/pattern.jpeg');
+#image {
+ background-image: url('./images/pattern.jpeg');
 }
 .price{
   font-weight: bold;
